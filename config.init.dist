@@ -1,0 +1,8 @@
+; fichier modèle du fichier config.ini (qui n'est pas versionné)
+; ce fichier est partagé ! pour montrer à tout le monde quelle config
+; quelles config sont attendues par application
+
+DB_HOST=
+DB_USERNAME=
+DB_PASSWORD= 
+DB_NAME=
